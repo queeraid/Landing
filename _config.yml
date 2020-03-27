@@ -27,12 +27,21 @@ copyright: "COVID-19 Queer Aid acknowledges Aboriginal owners of Country through
 google_fonts:
   - name: "Ubuntu"
     weights: "400,400i,700,700i"
-    
+
 # Build settings
 theme: jekyll-theme-so-simple
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+# Footer Links
+footer_links:
+  - title: Facebook
+    urL: https://facebook.com
+    icon: fab fa-facebook
+  - title: Email
+    url: mailto:info@covid19queeraid.com
+    icon: fas fa-envelope
 
 # Exclude from processing.
 # The following items will not be processed, by default.
