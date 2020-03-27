@@ -23,8 +23,11 @@ email: your-email@example.com
 description: COVID-19 Aid for Queer Folx in Naarm (Melbourne)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-copyright: "COVID-19 Queer Aid acknowledges Aboriginal owners of Country throughout Victoria and pays respect to their cultures and Elders past, present and emerging"
-
+copyright: "COVID-19 Queer Aid acknowledges Aboriginal owners of Country throughout Victoria and pays respect to their cultures and Elders past, present and emerging. <br> &copy; 2020 COVID-19 Queer Aid Naarm"
+google_fonts:
+  - name: "Ubuntu"
+    weights: "400,400i,700,700i"
+    
 # Build settings
 theme: jekyll-theme-so-simple
 plugins:
