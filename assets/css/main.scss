@@ -21,7 +21,9 @@ sitemap: false
 
 h2 {text-align: center;}
 
-.layout--home .page-wrapper {max-width: 900px;}
+.layout--home .page-wrapper {max-width: 960px;}
+
+.copyright {margin: 0 6%;}
 
 /* For Mobile devices */
 @media only screen and (min-width: 768px) {
@@ -30,4 +32,9 @@ h2 {text-align: center;}
   .col-3 {grid-column: 3 / 4;}
   .col-4 {grid-column: 4 / 5;}
   .grid-item {margin: 1% 0 1% 1.6%;}
+  .center-container {
+    width:50vw;
+    max-width: 600px;
+    margin: 0 auto;
+  }
 }
