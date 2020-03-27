@@ -37,7 +37,7 @@ plugins:
 # Footer Links
 footer_links:
   - title: Facebook
-    urL: https://facebook.com
+    urL: facebook.com
     icon: fab fa-facebook
   - title: Email
     url: mailto:info@covid19queeraid.com
