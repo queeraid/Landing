@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: COVID-19 Queer Aid
-email: your-email@example.com
-description: COVID-19 Aid for Queer Folx in Naarm (Melbourne)
+title: COVID-19 Queer Aid Naarm/Melbourne
+email: hello@queeraidmelbourne.org
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-copyright: "COVID-19 Queer Aid acknowledges Aboriginal owners of Country throughout Victoria and pays respect to their cultures and Elders past, present and emerging. <br> &copy; 2020 COVID-19 Queer Aid Naarm"
+copyright: ""
 google_fonts:
   - name: "Ubuntu"
     weights: "400,400i,700,700i"
@@ -36,11 +36,11 @@ plugins:
 
 # Footer Links
 footer_links:
-  - title: Facebook
-    urL: facebook.com
+  - title: Facebook Group
+    url: https://www.facebook.com/groups/162278224778441/
     icon: fab fa-facebook
   - title: Email
-    url: mailto:info@covid19queeraid.com
+    url: mailto:hello@queeraidmelbourne.org
     icon: fas fa-envelope
 
 # Exclude from processing.
