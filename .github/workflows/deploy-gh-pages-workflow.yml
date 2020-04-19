@@ -2,8 +2,10 @@ name: Deploy to GH Pages
 on: [push]
 
 jobs:
-  jekyll:
+  deploy:
     runs-on: ubuntu-16.04
+    branches:
+      - deploy
     steps:
       - uses: actions/checkout@v2
       - name: Jekyll Actions
