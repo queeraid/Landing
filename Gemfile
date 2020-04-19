@@ -7,12 +7,11 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "~> 4.0.0"
+gem "jekyll", "~> 4.0.0"
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
-  gem 'github-pages'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
