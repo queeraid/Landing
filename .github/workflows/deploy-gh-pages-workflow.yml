@@ -1,2 +1,8 @@
-- name: Jekyll Actions
-  uses: helaili/jekyll-action@2.0.0
+name: Deploy to GH Pages
+on: [push]
+
+jobs:
+  build:
+    steps:
+      - name: Jekyll Actions
+        uses: helaili/jekyll-action@2.0.0
