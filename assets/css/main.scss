@@ -18,7 +18,13 @@ $accent-color: #da4096;
   }
 
   img.logo {
-    max-width: 400px;
+    @include breakpoint($medium) {
+      max-width: 300px;
+    }
+
+    @include breakpoint($large) {
+      max-width: 400px;
+    }
   }
 
   .page-title {
