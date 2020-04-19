@@ -1,11 +1,12 @@
 name: Deploy to GH Pages
-on: [push]
+on:
+  push:
+    branches:
+      - deploy
 
 jobs:
   deploy:
     runs-on: ubuntu-16.04
-    branches:
-      - deploy
     steps:
       - uses: actions/checkout@v2
       - name: Jekyll Actions
