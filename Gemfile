@@ -12,6 +12,7 @@ gem "jekyll", "~> 4.0.0"
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
+  gem 'jekyll-analytics', git: 'git@github.com:hendrikschneider/jekyll-analytics.git', ref: '8b57cd569b4fddfbcc3b0b0c816c1fa31383a288'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
