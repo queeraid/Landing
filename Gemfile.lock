@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/hendrikschneider/jekyll-analytics.git
+  revision: 8b57cd569b4fddfbcc3b0b0c816c1fa31383a288
+  ref: 8b57cd569b4fddfbcc3b0b0c816c1fa31383a288
+  specs:
+    jekyll-analytics (0.1.12)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -96,6 +103,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.0.0)
+  jekyll-analytics!
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-theme-so-simple
