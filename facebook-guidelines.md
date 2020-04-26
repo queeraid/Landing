@@ -62,7 +62,7 @@ because:
 
  - It may compromise people's ability to participate (e.g. medical professionals).
  - It endangers the existence of the group in this online space.
- - It potentially makes admins legally culpable
+ - It potentially makes admins legally culpable.
 
 Instead of directly requesting medicine, you could:
 
