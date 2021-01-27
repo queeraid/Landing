@@ -45,7 +45,7 @@ footer_links:
     url: https://github.com/queeraid
     icon: fab fa-github-square
   - title: Email
-    url: mailto:hello@queeraidmelbourne.org
+    url: mailto:queeraidmelbourne@protonmail.com
     icon: fas fa-envelope
 
 jekyll_analytics:

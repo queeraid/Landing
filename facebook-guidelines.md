@@ -8,7 +8,7 @@ _These admin guidelines are for [Queer Aid's Facebook
 group](https://www.facebook.com/groups/162278224778441). Please read these
 before posting! Any feedback is very welcome - if you have any questions or
 comments, get in touch with us at
-[hello@queeraidmelbourne.org](mailto:hello@queeraidmelbourne.org) or make a
+[queeraidmelbourne@protonmail.com](mailto:queeraidmelbourne@protonmail.com) or make a
 post in the group._
 
 [COVID-19 Queer Aid Naarm/Melbourne](https://www.facebook.com/groups/162278224778441)

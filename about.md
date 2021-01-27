@@ -35,5 +35,5 @@ forms if you need help, or if you have time, skills or resources to share. Our
 to share ideas and strategies for organising, information, and to generally
 connect. The networks we build and strengthen now will outlast this crisis.
 
-We can also be reached at [hello@queeraidmelbourne.org](mailto:hello@queeraidmelbourne.org)
+We can also be reached at [queeraidmelbourne@protonmail.com](mailto:queeraidmelbourne@protonmail.com)
 
