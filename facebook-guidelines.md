@@ -17,19 +17,9 @@ homophobia, fatphobia, transphobia, drug shaming, etc. will not be tolerated.
 
 ## Requests/Offers for Help
 
-We currently have a 10:1 ratio of volunteers to help requests. If you are
-self-isolating, quarantining, or at high risk, and need ongoing support, it
-makes most sense to submit a help request over the [Request
-Help form](https://forms.gle/DeHZU6cvaAhGK7UWA). If you are a health care
-worker who would like support, please use the [Request
-Help form](https://forms.gle/DeHZU6cvaAhGK7UWA) too.
-
-Likewise, if you are able to volunteer, please fill out the [Volunteer
-form](https://forms.gle/UNs8tHYXfqmi2gWL6).
-
-Feel free to post one-off offers and requests in the group. If you have
-resources to share, feel free to post this in the group too. Please use topics
-to sort your posts.
+Feel free to post offers and requests in the group. If you have resources to
+share, feel free to post this in the group too. Please use topics to sort your
+posts.
 
 ## News
 

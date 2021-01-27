@@ -25,15 +25,10 @@ of organising. Community is an ideal we want to work towards. We aim to share
 our work as freely as possible, and to prioritise open, transparent decision
 making processes.
 
-## Get Involved
-
-Use the
-[Volunteer](https://docs.google.com/forms/d/e/1FAIpQLSdle5xUP33MnKjPo9KLsYVlBLY_QL7oBNM9GEmF2FWe59d1aA/viewform)
-and [Request Help](https://docs.google.com/forms/d/e/1FAIpQLSdwshg98nDxFg_b8ItzRYRsymLe8uwHax8J8Q3ORedxgCIHOw/viewform)
-forms if you need help, or if you have time, skills or resources to share. Our
-[Facebook Group](https://www.facebook.com/groups/162278224778441/) is a place
-to share ideas and strategies for organising, information, and to generally
-connect. The networks we build and strengthen now will outlast this crisis.
+Our [Facebook Group](https://www.facebook.com/groups/162278224778441/) is a
+place to share ideas and strategies for organising, information, and to
+generally connect. The networks we build and strengthen now will outlast this
+crisis.
 
 We can also be reached at [queeraidmelbourne@protonmail.com](mailto:queeraidmelbourne@protonmail.com)
 
